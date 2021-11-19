@@ -19,7 +19,7 @@ using namespace std;
 // </summary>
 int main() {
 
-    std::cout << "Hello World!" << std::endl;
-    std::cout << "This " << "is " << "awesome!" << std::endl;
+    cout << "Hello World!" << endl;
+    cout << "This " << "is " << "awesome!" << endl;
     return 0;
 };
