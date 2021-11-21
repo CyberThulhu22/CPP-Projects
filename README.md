@@ -14,15 +14,15 @@
 
 ## C++ Fun Projects
 
-| Topic | Description | Links|
+| Topic | Description | Links |
 |:------|:------------|:----:|
 |       |             |      |
 ---
 
 ## C++ Work Projects
 
-| Topic | Description | Links|
-|:------|:------------|:----:|
-|       |             |      |
+| Topic | Description | Links |
+|:------|:------------|:-----:|
+|       |             |       |
 ---
 
