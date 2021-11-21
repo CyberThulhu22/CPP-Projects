@@ -1,4 +1,4 @@
-// Hello World Program
+// Variable Program
 // 
 // NAME:        variables.cpp
 // VERSION:     0.0.0
