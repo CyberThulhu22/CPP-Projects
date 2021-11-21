@@ -3,13 +3,13 @@
 ---
 ## C++ Learning Index
 
-| Topic                       | Description                           | Links                       |
-|:----------------------------|:--------------------------------------|:---------------------------:|
-| C++ - Hello World           | Learning basics of C++                | ["Hello World"]()           |
-| C++ - Variables             | Learning Variables for C++            | ["Variables"]()             |
-| C++ - Arithmetic Operations | Learning Arithmetic Operations in C++ | ["Arithmetic Operations"]() |
-| C++ - If/Else               | Learning If/Else Statements in C++    | ["If/Else Statements"]()    |
-| C++ - While Loops           | Learning While Loops in C++           | ["While Loops"]()           |
+| Topic                       | Description                           | Links                                                                                                                                    |
+|:----------------------------|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| C++ - Hello World           | Learning basics of C++                | [Hello World](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Hello_World.cpp)                     |
+| C++ - Variables             | Learning Variables for C++            | [Variables](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Variables.cpp)                         |
+| C++ - Arithmetic Operations | Learning Arithmetic Operations in C++ | [Arithmetic Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Arithmetic_Operations.cpp) |
+| C++ - If/Else               | Learning If/Else Statements in C++    | [If/Else Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__IF_ELSE_SYNTAX.cpp)           |
+| C++ - While Loops           | Learning While Loops in C++           | [While Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__While_Loops.cpp)                     |
 ---
 
 ## C++ Fun Projects
