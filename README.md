@@ -10,6 +10,9 @@
 | C++ - Arithmetic Operations | Learning Arithmetic Operations in C++ | [Arithmetic Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Arithmetic_Operations.cpp) |
 | C++ - If/Else               | Learning If/Else Statements in C++    | [If/Else Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__IF_ELSE_SYNTAX.cpp)           |
 | C++ - While Loops           | Learning While Loops in C++           | [While Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__While_Loops.cpp)                     |
+| C++ - For Loops             | Learning For Loops in C++             | [For Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__For_Loops.cpp)                         |
+| C++ - Do Loops              | Learning Do Loops in C++              | [Do Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Do_Loops.cpp)                           |
+| C++ - Switch Statements     | Learning Switch Statements in C++     | [Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Switch_Operations.cpp)         |
 ---
 
 ## C++ Fun Projects
