@@ -6,7 +6,7 @@
 // STATUS:      Work In Progress
 // DESCRIPTION: Basic Program That Prints Hello World
 // TO-DO:       Build Initial Code Framework
-// USAGE:       helloworld
+// USAGE:       helloworld.exe
 // COPYRIGHT © 2021 Jesse Leverett
 
 #include <iostream>
