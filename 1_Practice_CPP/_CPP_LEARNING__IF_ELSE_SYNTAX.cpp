@@ -13,18 +13,18 @@
 
 using namespace std;
 
-// <summary>
-//  ____________________________________________________________________
-// |    OPERATOR    |           DESCRIPTION             |   EXAMPLE     |
-// |----------------------------------------------------|---------------|
-// |       >        | Greater than...                   | 7 > 4 'True'  |
-// |       <        | Less than...                      | 7 < 4 'False' |
-// |       >=       | Greater than or equal to...       | 7 >= 4 'True' |
-// |       <=       | Less than or equal to...          | 7 <= 4 'False'|
-// |       ==       | Equal to...                       | 7 == 4 'False'|
-// |       !=       | Not equal to...                   | 7 != 4 'True' |
-// |________________|___________________________________|_______________|
-// </summary>
+/*
+  ____________________________________________________________________
+ |    OPERATOR    |           DESCRIPTION             |   EXAMPLE     |
+ |----------------------------------------------------|---------------|
+ |       >        | Greater than...                   | 7 > 4 'True'  |
+ |       <        | Less than...                      | 7 < 4 'False' |
+ |       >=       | Greater than or equal to...       | 7 >= 4 'True' |
+ |       <=       | Less than or equal to...          | 7 <= 4 'False'|
+ |       ==       | Equal to...                       | 7 == 4 'False'|
+ |       !=       | Not equal to...                   | 7 != 4 'True' |
+ |________________|___________________________________|_______________|
+*/
 
 int main() {
 

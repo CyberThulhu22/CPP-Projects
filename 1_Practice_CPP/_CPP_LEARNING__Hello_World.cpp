@@ -13,10 +13,10 @@
 
 using namespace std;
 
-// <summary>
-// Main Program that prints out 'Hello World'
-// and then prints 'This is awesome!'
-// </summary>
+/*
+ Main Program that prints out 'Hello World'
+ and then prints 'This is awesome!'
+*/
 int main() {
 
     std::cout << "Hello World!" << std::endl;

@@ -13,18 +13,20 @@
 
 using namespace std;
 
-// <summary>
-// How to Use Basic Arithmetic Operators
-// |        OPERATOR         |   SYMBOL  |       FORM        |
-// |---------------------------------------------------------|
-// |        Addition         |     +     |       x + y       |
-// |       Subtraction       |     -     |       x - y       |
-// |      Multiplication     |     *     |       x * y       |
-// |        Division         |     /     |       x / y       |
-// |        Modulus          |     %     |       x % y       |
-// |        Increment        |     ++    |        x++        |
-// |        Decrement        |     --    |        x--        |
-// </summary>
+/*
+ How to Use Basic Arithmetic Operators!
+  _________________________________________________________
+ |        OPERATOR         |   SYMBOL  |       FORM        |
+ |---------------------------------------------------------|
+ |        Addition         |     +     |       x + y       |
+ |       Subtraction       |     -     |       x - y       |
+ |      Multiplication     |     *     |       x * y       |
+ |        Division         |     /     |       x / y       |
+ |        Modulus          |     %     |       x % y       |
+ |        Increment        |     ++    |        x++        |
+ |        Decrement        |     --    |        x--        |
+ |_________________________|___________|___________________|
+*/
 
 int main() {
 
