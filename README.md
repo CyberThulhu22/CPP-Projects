@@ -18,9 +18,9 @@
 
 ## C++ Fun Projects
 
-| Topic | Description | Links |
-|:------|:------------|:-----:|
-|       |             |       |
+| Topic                 | Description                                                 | Links                                                                                                             |
+|:----------------------|:------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|
+| C++ - How Much Pizza? | Determines how Many Boxes of Pizza are needed and Leftovers | [How Much Pizza?](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__How_Much_Pizza.cpp) |
 ---
 
 ## C++ Work Projects
