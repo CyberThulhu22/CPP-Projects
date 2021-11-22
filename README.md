@@ -13,7 +13,7 @@
 | C++ - For Loops             | Learning For Loops in C++             | [For Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__For_Loops.cpp)                         |
 | C++ - Do Loops              | Learning Do Loops in C++              | [Do Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Do_Loops.cpp)                           |
 | C++ - Switch Statements     | Learning Switch Statements in C++     | [Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Switch_Operations.cpp)         |
-| C++ - Logical Operations    | Learning Logical Operations in C++    | [Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)         |
+| C++ - Logical Operations    | Learning Logical Operations in C++    | [Logical Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)        |
 ---
 
 ## C++ Fun Projects
