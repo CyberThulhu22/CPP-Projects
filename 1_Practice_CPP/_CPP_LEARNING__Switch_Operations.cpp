@@ -4,7 +4,7 @@
 // VERSION:     0.0.0
 // AUTHOR:      Jesse Leverett (CyberThulhu)
 // STATUS:      Work In Progress
-// DESCRIPTION: Basic Program That Teaches For Loops
+// DESCRIPTION: Basic Program That Teaches Switch Operations
 // TO-DO:       Build Initial Code Framework
 // USAGE:       switchoperation.exe
 // COPYRIGHT © 2021 Jesse Leverett
