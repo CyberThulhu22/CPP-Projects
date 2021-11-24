@@ -3,26 +3,26 @@
 ---
 ## C++ Learning Index
 
-| Topic                       | Description                           | Links                                                                                                                                    |
-|:----------------------------|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|
-| C++ - Hello World           | Learning basics of C++                | [Hello World](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Hello_World.cpp)                     |
-| C++ - Variables             | Learning Variables for C++            | [Variables](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Variables.cpp)                         |
-| C++ - Arithmetic Operations | Learning Arithmetic Operations in C++ | [Arithmetic Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Arithmetic_Operations.cpp) |
-| C++ - If/Else               | Learning If/Else Statements in C++    | [If/Else Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__IF_ELSE_SYNTAX.cpp)           |
-| C++ - While Loops           | Learning While Loops in C++           | [While Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__While_Loops.cpp)                     |
-| C++ - For Loops             | Learning For Loops in C++             | [For Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__For_Loops.cpp)                         |
-| C++ - Do Loops              | Learning Do Loops in C++              | [Do Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Do_Loops.cpp)                           |
-| C++ - Switch Statements     | Learning Switch Statements in C++     | [Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Switch_Operations.cpp)         |
-| C++ - Logical Operations    | Learning Logical Operations in C++    | [Logical Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)        |
-| C++ - Data Types            | Learning Data Types in C++            | [Data Types](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Data_Types.cpp)                       |
-| C++ - Pointers              | Learning Pointers in C++              | [Pointers](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Pointers.cpp)                           |
+| Topic                     | Description                         | Links                                                                                                                                  |
+|:--------------------------|:------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------:|
+|C++ - Hello World          |Learning basics of C++               |[Hello World](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Hello_World.cpp)                    |
+|C++ - Variables            |Learning Variables for C++           |[Variables](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Variables.cpp)                        |
+|C++ - Arithmetic Operations|Learning Arithmetic Operations in C++|[Arithmetic Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Arithmetic_Operations.cpp)|
+|C++ - If/Else              |Learning If/Else Statements in C++   |[If/Else Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__IF_ELSE_SYNTAX.cpp)          |
+|C++ - While Loops          |Learning While Loops in C++          |[While Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__While_Loops.cpp)                    |
+|C++ - For Loops            |Learning For Loops in C++            |[For Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__For_Loops.cpp)                        |
+|C++ - Do Loops             |Learning Do Loops in C++             |[Do Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Do_Loops.cpp)                          |
+|C++ - Switch Statements    |Learning Switch Statements in C++    |[Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Switch_Operations.cpp)        |
+|C++ - Logical Operations   |Learning Logical Operations in C++   |[Logical Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)       |
+|C++ - Data Types           |Learning Data Types in C++           |[Data Types](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Data_Types.cpp)                      |
+|C++ - Pointers             |Learning Pointers in C++             |[Pointers](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Pointers.cpp)                          |
 ---
 
 ## C++ Fun Projects
 
-| Topic                 | Description                                                 | Links                                                                                                             |
-|:----------------------|:------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|
-| C++ - How Much Pizza? | Determines how Many Boxes of Pizza are needed and Leftovers | [How Much Pizza?](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__How_Much_Pizza.cpp) |
+| Topic               | Description                                               | Links                                                                                                           |
+|:--------------------|:----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
+|C++ - How Much Pizza?|Determines how Many Boxes of Pizza are needed and Leftovers|[How Much Pizza?](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__How_Much_Pizza.cpp)|
 ---
 
 ## C++ Work Projects
