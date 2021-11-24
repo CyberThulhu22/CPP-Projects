@@ -16,6 +16,7 @@
 |C++ - Logical Operations   |Learning Logical Operations in C++   |[Logical Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)       |
 |C++ - Data Types           |Learning Data Types in C++           |[Data Types](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Data_Types.cpp)                      |
 |C++ - Pointers             |Learning Pointers in C++             |[Pointers](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Pointers.cpp)                          |
+|C++ - Functions Part One   |Learning Functions (Pt.1) in C++     |[Functions (Pt.1)](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Functions_Part_1.cpp)          |
 ---
 
 ## C++ Fun Projects
