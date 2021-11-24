@@ -14,6 +14,8 @@
 | C++ - Do Loops              | Learning Do Loops in C++              | [Do Loops](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Do_Loops.cpp)                           |
 | C++ - Switch Statements     | Learning Switch Statements in C++     | [Switch Statements](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Switch_Operations.cpp)         |
 | C++ - Logical Operations    | Learning Logical Operations in C++    | [Logical Operations](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Logical_Operators.cpp)        |
+| C++ - Data Types            | Learning Data Types in C++            | [Data Types](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Data_Types.cpp)                       |
+| C++ - Pointers              | Learning Pointers in C++              | [Pointers](https://github.com/CyberThulhu22/CPP-Projects/blob/main/1_Practice_CPP/_CPP_LEARNING__Pointers.cpp)                           |
 ---
 
 ## C++ Fun Projects
