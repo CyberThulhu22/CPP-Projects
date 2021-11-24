@@ -20,9 +20,10 @@
 
 ## C++ Fun Projects
 
-| Topic               | Description                                               | Links                                                                                                           |
-|:--------------------|:----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
-|C++ - How Much Pizza?|Determines how Many Boxes of Pizza are needed and Leftovers|[How Much Pizza?](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__How_Much_Pizza.cpp)|
+| Topic                   | Description                                               | Links                                                                                                           |
+|:------------------------|:----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
+|C++ - How Much Pizza?    |Determines how Many Boxes of Pizza are needed and Leftovers|[How Much Pizza?](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__How_Much_Pizza.cpp)|
+|C++ - Discount Calculator|Calculates the price of Items that have a Discount         |[Discount Calc](https://github.com/CyberThulhu22/CPP-Projects/blob/main/2_Fun_CPP/_CPP_FUN__Discount_Calc.cpp)   |
 ---
 
 ## C++ Work Projects
