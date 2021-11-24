@@ -1,12 +1,12 @@
-// 
-// 
-// NAME:        
+// Learning of Data Types
+//  
+// NAME:        datatypes.cpp
 // VERSION:     0.0.0
 // AUTHOR:      Jesse Leverett (CyberThulhu)
 // STATUS:      Work In Progress
-// DESCRIPTION: 
+// DESCRIPTION: Learning about Data Types
 // TO-DO:       Build Initial Code Framework
-// USAGE:       
+// USAGE:       datatypes.exe
 // COPYRIGHT © 2021 Jesse Leverett
 
 #include <iostream>
